@@ -1,0 +1,14 @@
+D:\Case Study -Shopping Cart System\Backend\Product-Service\src\main\java\com\eshoppingzone\productservice\repository\ProductRepository.java
+D:\Case Study -Shopping Cart System\Backend\Product-Service\src\main\java\com\eshoppingzone\productservice\entity\DbSequence.java
+D:\Case Study -Shopping Cart System\Backend\Product-Service\src\main\java\com\eshoppingzone\config\SwaggerConfig.java
+D:\Case Study -Shopping Cart System\Backend\Product-Service\src\main\java\com\eshoppingzone\config\ValidationHandler.java
+D:\Case Study -Shopping Cart System\Backend\Product-Service\src\main\java\com\eshoppingzone\productservice\service\SequenceGeneratorService.java
+D:\Case Study -Shopping Cart System\Backend\Product-Service\src\main\java\com\eshoppingzone\productservice\service\ProductServiceImpl.java
+D:\Case Study -Shopping Cart System\Backend\Product-Service\src\main\java\com\eshoppingzone\exception\CategoryNotFoundException.java
+D:\Case Study -Shopping Cart System\Backend\Product-Service\src\main\java\com\eshoppingzone\ProductServiceApplication.java
+D:\Case Study -Shopping Cart System\Backend\Product-Service\src\main\java\com\eshoppingzone\exception\ProductTypeNotExistsException.java
+D:\Case Study -Shopping Cart System\Backend\Product-Service\src\main\java\com\eshoppingzone\productservice\resource\ProductResource.java
+D:\Case Study -Shopping Cart System\Backend\Product-Service\src\main\java\com\eshoppingzone\productservice\entity\Product.java
+D:\Case Study -Shopping Cart System\Backend\Product-Service\src\main\java\com\eshoppingzone\productservice\service\ProductService.java
+D:\Case Study -Shopping Cart System\Backend\Product-Service\src\main\java\com\eshoppingzone\exception\ProductAlreadyExistsException.java
+D:\Case Study -Shopping Cart System\Backend\Product-Service\src\main\java\com\eshoppingzone\exception\ProductNotFoundException.java

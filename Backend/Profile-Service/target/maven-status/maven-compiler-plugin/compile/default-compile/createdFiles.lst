@@ -1,0 +1,16 @@
+com\eshoppingzone\profile\exception\ProfileNotFoundException.class
+com\eshoppingzone\profile\UserProfileService\pojo\DbSequence.class
+com\eshoppingzone\profile\UserProfileService\pojo\MailRequest.class
+com\eshoppingzone\profile\UserProfileService\pojo\UserProfile.class
+com\eshoppingzone\profile\UserProfileService\service\SequenceGeneratorService.class
+com\eshoppingzone\profile\UserProfileService\pojo\Address.class
+com\eshoppingzone\profile\UserProfileService\service\ProfileServiceImpl.class
+com\eshoppingzone\profile\ProfileServiceApplication.class
+com\eshoppingzone\profile\config\ValidationHandler.class
+com\eshoppingzone\profile\config\SwaggerConfig.class
+com\eshoppingzone\profile\UserProfileService\repository\ProfileRepository.class
+com\eshoppingzone\profile\UserProfileService\pojo\Role.class
+com\eshoppingzone\profile\UserProfileService\service\ProfileService.class
+com\eshoppingzone\profile\UserProfileService\pojo\Cart.class
+com\eshoppingzone\profile\UserProfileService\resource\ProfileResource.class
+com\eshoppingzone\profile\exception\ProfileAlreadyExistsException.class

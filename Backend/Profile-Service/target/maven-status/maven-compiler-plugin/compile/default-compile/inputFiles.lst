@@ -1,0 +1,16 @@
+D:\Case Study -Shopping Cart System\Backend\Profile-Service\src\main\java\com\eshoppingzone\profile\UserProfileService\service\SequenceGeneratorService.java
+D:\Case Study -Shopping Cart System\Backend\Profile-Service\src\main\java\com\eshoppingzone\profile\ProfileServiceApplication.java
+D:\Case Study -Shopping Cart System\Backend\Profile-Service\src\main\java\com\eshoppingzone\profile\UserProfileService\pojo\Cart.java
+D:\Case Study -Shopping Cart System\Backend\Profile-Service\src\main\java\com\eshoppingzone\profile\config\ValidationHandler.java
+D:\Case Study -Shopping Cart System\Backend\Profile-Service\src\main\java\com\eshoppingzone\profile\UserProfileService\resource\ProfileResource.java
+D:\Case Study -Shopping Cart System\Backend\Profile-Service\src\main\java\com\eshoppingzone\profile\UserProfileService\pojo\Address.java
+D:\Case Study -Shopping Cart System\Backend\Profile-Service\src\main\java\com\eshoppingzone\profile\UserProfileService\repository\ProfileRepository.java
+D:\Case Study -Shopping Cart System\Backend\Profile-Service\src\main\java\com\eshoppingzone\profile\UserProfileService\pojo\MailRequest.java
+D:\Case Study -Shopping Cart System\Backend\Profile-Service\src\main\java\com\eshoppingzone\profile\UserProfileService\service\ProfileService.java
+D:\Case Study -Shopping Cart System\Backend\Profile-Service\src\main\java\com\eshoppingzone\profile\exception\ProfileAlreadyExistsException.java
+D:\Case Study -Shopping Cart System\Backend\Profile-Service\src\main\java\com\eshoppingzone\profile\config\SwaggerConfig.java
+D:\Case Study -Shopping Cart System\Backend\Profile-Service\src\main\java\com\eshoppingzone\profile\UserProfileService\pojo\UserProfile.java
+D:\Case Study -Shopping Cart System\Backend\Profile-Service\src\main\java\com\eshoppingzone\profile\UserProfileService\pojo\Role.java
+D:\Case Study -Shopping Cart System\Backend\Profile-Service\src\main\java\com\eshoppingzone\profile\UserProfileService\service\ProfileServiceImpl.java
+D:\Case Study -Shopping Cart System\Backend\Profile-Service\src\main\java\com\eshoppingzone\profile\exception\ProfileNotFoundException.java
+D:\Case Study -Shopping Cart System\Backend\Profile-Service\src\main\java\com\eshoppingzone\profile\UserProfileService\pojo\DbSequence.java

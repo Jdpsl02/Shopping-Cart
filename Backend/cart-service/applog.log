@@ -1,0 +1,180 @@
+2022-05-15 00:01:52,533 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 00:06:52,539 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 00:11:52,546 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 00:16:01,184 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-6] cart not found 
+2022-05-15 00:16:04,333 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-7] cart not found 
+2022-05-15 00:16:07,258 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-9] cart not found 
+2022-05-15 00:16:10,315 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-10] cart not found 
+2022-05-15 00:16:13,242 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-1] cart not found 
+2022-05-15 00:16:16,302 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-3] cart not found 
+2022-05-15 00:16:19,278 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-4] cart not found 
+2022-05-15 00:16:22,307 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-5] cart not found 
+2022-05-15 00:16:25,321 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-6] cart not found 
+2022-05-15 00:16:28,349 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-8] cart not found 
+2022-05-15 00:16:31,289 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-9] cart not found 
+2022-05-15 00:16:34,233 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-10] cart not found 
+2022-05-15 00:16:37,262 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-2] cart not found 
+2022-05-15 00:16:40,270 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-3] cart not found 
+2022-05-15 00:16:43,238 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-4] cart not found 
+2022-05-15 00:16:46,244 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-6] cart not found 
+2022-05-15 00:16:49,262 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-7] cart not found 
+2022-05-15 00:16:52,236 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-8] cart not found 
+2022-05-15 00:16:52,555 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 00:16:55,364 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-10] cart not found 
+2022-05-15 00:16:58,272 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-2] cart not found 
+2022-05-15 00:17:01,352 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-3] cart not found 
+2022-05-15 00:17:05,186 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-4] cart not found 
+2022-05-15 00:17:08,183 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-6] cart not found 
+2022-05-15 00:17:11,180 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-7] cart not found 
+2022-05-15 00:17:14,179 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-8] cart not found 
+2022-05-15 00:17:17,201 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-10] cart not found 
+2022-05-15 00:17:20,172 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-1] cart not found 
+2022-05-15 00:17:23,536 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-2] cart not found 
+2022-05-15 00:17:26,277 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-3] cart not found 
+2022-05-15 00:17:29,231 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-4] cart not found 
+2022-05-15 00:17:32,283 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-5] cart not found 
+2022-05-15 00:17:35,191 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-6] cart not found 
+2022-05-15 00:17:38,189 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-8] cart not found 
+2022-05-15 00:17:40,236 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-9] cart not found 
+2022-05-15 00:17:43,241 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-10] cart not found 
+2022-05-15 00:17:46,337 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-2] cart not found 
+2022-05-15 00:17:49,251 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-3] cart not found 
+2022-05-15 00:17:52,240 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-4] cart not found 
+2022-05-15 00:17:55,307 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-5] cart not found 
+2022-05-15 00:17:58,234 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-7] cart not found 
+2022-05-15 00:18:01,254 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-8] cart not found 
+2022-05-15 00:18:04,278 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-9] cart not found 
+2022-05-15 00:18:07,267 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-1] cart not found 
+2022-05-15 00:18:10,280 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-2] cart not found 
+2022-05-15 00:18:13,255 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-3] cart not found 
+2022-05-15 00:18:16,257 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-4] cart not found 
+2022-05-15 00:18:19,251 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-5] cart not found 
+2022-05-15 00:18:22,255 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-6] cart not found 
+2022-05-15 00:18:25,259 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-7] cart not found 
+2022-05-15 00:18:28,294 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-9] cart not found 
+2022-05-15 00:18:31,256 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-10] cart not found 
+2022-05-15 00:18:34,246 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-1] cart not found 
+2022-05-15 00:18:37,340 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-3] cart not found 
+2022-05-15 00:18:40,236 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-4] cart not found 
+2022-05-15 00:18:43,255 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-5] cart not found 
+2022-05-15 00:18:45,927 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-6] cart not found 
+2022-05-15 00:18:48,903 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-8] cart not found 
+2022-05-15 00:18:55,210 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-9] cart not found 
+2022-05-15 00:18:56,584 [INFO] com.eshoopingzone.cartservice.resource.CartResource [http-nio-8083-exec-10] Product(productId=1, productType=Laptop, productName=Dell laptop, category=Electronics, rating=null, review=null, image=https://icdn.digitaltrends.com/image/digitaltrends/dell-xps-15-oled-2021-laptop-720x720.jpg, price=50.2, description=uak, specification=null)
+2022-05-15 00:19:47,611 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-8] cart not found 
+2022-05-15 00:19:47,653 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-9] cart not found 
+2022-05-15 00:19:50,721 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-10] cart not found 
+2022-05-15 00:19:53,709 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-1] cart not found 
+2022-05-15 00:19:56,717 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-3] cart not found 
+2022-05-15 00:19:59,732 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-4] cart not found 
+2022-05-15 00:20:02,710 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-5] cart not found 
+2022-05-15 00:20:05,733 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-6] cart not found 
+2022-05-15 00:20:08,727 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-8] cart not found 
+2022-05-15 00:20:11,888 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-9] cart not found 
+2022-05-15 00:20:14,747 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-10] cart not found 
+2022-05-15 00:20:17,772 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-1] cart not found 
+2022-05-15 00:20:20,706 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-2] cart not found 
+2022-05-15 00:20:23,814 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-3] cart not found 
+2022-05-15 00:20:29,562 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-4] cart not found 
+2022-05-15 00:20:32,631 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-5] cart not found 
+2022-05-15 00:20:36,043 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-6] cart not found 
+2022-05-15 00:20:39,029 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-7] cart not found 
+2022-05-15 00:20:42,022 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-8] cart not found 
+2022-05-15 00:20:45,073 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-9] cart not found 
+2022-05-15 00:20:48,043 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-1] cart not found 
+2022-05-15 00:20:48,731 [INFO] com.eshoopingzone.cartservice.resource.CartResource [http-nio-8083-exec-2] Product(productId=1, productType=Laptop, productName=Dell laptop, category=Electronics, rating=null, review=null, image=https://icdn.digitaltrends.com/image/digitaltrends/dell-xps-15-oled-2021-laptop-720x720.jpg, price=50.2, description=uak, specification=null)
+2022-05-15 00:21:52,556 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 00:21:59,563 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-8] cart not found 
+2022-05-15 00:22:02,615 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-9] cart not found 
+2022-05-15 00:22:05,610 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-10] cart not found 
+2022-05-15 00:22:08,623 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-1] cart not found 
+2022-05-15 00:22:11,615 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-2] cart not found 
+2022-05-15 00:22:14,610 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-3] cart not found 
+2022-05-15 00:22:15,355 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-4] cart not found 
+2022-05-15 00:22:18,352 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-5] cart not found 
+2022-05-15 00:22:21,372 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-6] cart not found 
+2022-05-15 00:22:24,427 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-7] cart not found 
+2022-05-15 00:22:27,366 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-8] cart not found 
+2022-05-15 00:22:33,385 [WARN] org.springframework.web.servlet.PageNotFound [http-nio-8083-exec-9] No mapping for GET /cart/
+2022-05-15 00:22:36,361 [WARN] org.springframework.web.servlet.PageNotFound [http-nio-8083-exec-10] No mapping for GET /cart/
+2022-05-15 00:22:41,030 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-1] cart not found 
+2022-05-15 00:22:48,064 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-2] cart not found 
+2022-05-15 00:22:51,393 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-3] cart not found 
+2022-05-15 00:22:54,664 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-4] cart not found 
+2022-05-15 00:22:57,588 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-5] cart not found 
+2022-05-15 00:23:00,598 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-7] cart not found 
+2022-05-15 00:23:03,704 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-8] cart not found 
+2022-05-15 00:23:09,008 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-9] cart not found 
+2022-05-15 00:23:12,382 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-10] cart not found 
+2022-05-15 00:23:15,588 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-1] cart not found 
+2022-05-15 00:23:19,174 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-2] cart not found 
+2022-05-15 00:23:22,066 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-3] cart not found 
+2022-05-15 00:23:25,055 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-4] cart not found 
+2022-05-15 00:23:28,018 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-5] cart not found 
+2022-05-15 00:23:31,021 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-6] cart not found 
+2022-05-15 00:23:34,019 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-7] cart not found 
+2022-05-15 00:23:37,021 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-8] cart not found 
+2022-05-15 00:23:40,019 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-9] cart not found 
+2022-05-15 00:23:43,019 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-10] cart not found 
+2022-05-15 00:23:46,166 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-1] cart not found 
+2022-05-15 00:23:49,171 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-2] cart not found 
+2022-05-15 00:23:52,178 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-3] cart not found 
+2022-05-15 00:23:55,188 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-4] cart not found 
+2022-05-15 00:23:58,176 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-5] cart not found 
+2022-05-15 00:24:01,168 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-6] cart not found 
+2022-05-15 00:24:04,173 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-7] cart not found 
+2022-05-15 00:24:07,174 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-8] cart not found 
+2022-05-15 00:24:10,167 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-9] cart not found 
+2022-05-15 00:24:13,169 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-10] cart not found 
+2022-05-15 00:24:16,171 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-1] cart not found 
+2022-05-15 00:24:19,177 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-2] cart not found 
+2022-05-15 00:24:22,173 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-3] cart not found 
+2022-05-15 00:24:25,168 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-4] cart not found 
+2022-05-15 00:24:27,440 [INFO] org.springdoc.api.AbstractOpenApiResource [http-nio-8083-exec-6] Init duration for springdoc-openapi is: 789 ms
+2022-05-15 00:24:28,183 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-7] cart not found 
+2022-05-15 00:24:31,183 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-8] cart not found 
+2022-05-15 00:24:34,034 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-9] cart not found 
+2022-05-15 00:24:37,066 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-10] cart not found 
+2022-05-15 00:24:40,166 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-1] cart not found 
+2022-05-15 00:24:43,184 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-2] cart not found 
+2022-05-15 00:24:46,342 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-3] cart not found 
+2022-05-15 00:24:49,228 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-4] cart not found 
+2022-05-15 00:24:52,195 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-5] cart not found 
+2022-05-15 00:24:55,167 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-6] cart not found 
+2022-05-15 00:24:58,309 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-7] cart not found 
+2022-05-15 00:25:01,174 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-8] cart not found 
+2022-05-15 00:25:04,227 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-9] cart not found 
+2022-05-15 00:25:07,166 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-10] cart not found 
+2022-05-15 00:25:10,186 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-1] cart not found 
+2022-05-15 00:25:13,215 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-5] cart not found 
+2022-05-15 00:25:16,195 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-6] cart not found 
+2022-05-15 00:25:19,174 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-7] cart not found 
+2022-05-15 00:25:22,177 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-8] cart not found 
+2022-05-15 00:25:25,171 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-9] cart not found 
+2022-05-15 00:25:28,171 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-10] cart not found 
+2022-05-15 00:25:31,018 [ERROR] com.eshoopingzone.cartservice.config.ValidationHandler [http-nio-8083-exec-1] cart not found 
+2022-05-15 00:26:52,566 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 00:31:52,576 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 00:36:52,584 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 00:41:52,597 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 00:46:52,605 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 00:51:52,609 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 00:56:52,617 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 01:01:52,632 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 01:06:52,638 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 01:11:52,649 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 01:16:52,657 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 01:21:52,667 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 01:26:52,675 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 01:31:52,690 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 01:36:52,697 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 01:40:19,361 [INFO] org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(232)-127.0.0.1] Application shutdown requested.
+2022-05-15 01:40:19,975 [INFO] org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [RMI TCP Connection(232)-127.0.0.1] Unregistering application CART-SERVICE with eureka with status DOWN
+2022-05-15 01:40:19,975 [INFO] com.netflix.discovery.DiscoveryClient [RMI TCP Connection(232)-127.0.0.1] Saw local status change event StatusChangeEvent [timestamp=1652559019975, current=DOWN, previous=UP]
+2022-05-15 01:40:20,006 [INFO] com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_CART-SERVICE/localhost:cart-service:8083: registering service...
+2022-05-15 01:40:20,486 [INFO] com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_CART-SERVICE/localhost:cart-service:8083 - registration status: 204
+2022-05-15 01:40:23,732 [INFO] com.netflix.discovery.DiscoveryClient [RMI TCP Connection(232)-127.0.0.1] Shutting down DiscoveryClient ...
+2022-05-15 01:40:26,741 [WARN] com.netflix.discovery.TimedSupervisorTask [DiscoveryClient-0] task supervisor shutting down, can't accept the task
+2022-05-15 01:40:26,805 [INFO] com.netflix.discovery.DiscoveryClient [RMI TCP Connection(232)-127.0.0.1] Unregistering ...
+2022-05-15 01:40:26,846 [INFO] com.netflix.discovery.DiscoveryClient [RMI TCP Connection(232)-127.0.0.1] DiscoveryClient_CART-SERVICE/localhost:cart-service:8083 - deregister  status: 200
+2022-05-15 01:40:26,984 [INFO] com.netflix.discovery.DiscoveryClient [RMI TCP Connection(232)-127.0.0.1] Completed shut down of DiscoveryClient

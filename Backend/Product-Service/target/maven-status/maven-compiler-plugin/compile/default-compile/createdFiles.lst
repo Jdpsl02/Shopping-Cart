@@ -1,0 +1,14 @@
+com\eshoppingzone\productservice\repository\ProductRepository.class
+com\eshoppingzone\ProductServiceApplication.class
+com\eshoppingzone\config\ValidationHandler.class
+com\eshoppingzone\exception\ProductNotFoundException.class
+com\eshoppingzone\config\SwaggerConfig.class
+com\eshoppingzone\exception\ProductAlreadyExistsException.class
+com\eshoppingzone\productservice\service\ProductService.class
+com\eshoppingzone\productservice\resource\ProductResource.class
+com\eshoppingzone\exception\ProductTypeNotExistsException.class
+com\eshoppingzone\exception\CategoryNotFoundException.class
+com\eshoppingzone\productservice\entity\Product.class
+com\eshoppingzone\productservice\service\ProductServiceImpl.class
+com\eshoppingzone\productservice\entity\DbSequence.class
+com\eshoppingzone\productservice\service\SequenceGeneratorService.class
