@@ -1,7 +1,0 @@
-package com.example;
-
-import org.springframework.cloud.gateway.filter.GlobalFilter;
-
-public class MyPreFilter implements GlobalFilter{
-
-}
