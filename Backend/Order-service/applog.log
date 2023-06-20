@@ -1,0 +1,35 @@
+2022-05-15 00:02:13,789 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 00:07:13,895 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 00:12:13,897 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 00:14:21,127 [WARN] org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver [http-nio-8084-exec-1] Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported]
+2022-05-15 00:15:52,947 [WARN] org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver [http-nio-8084-exec-5] Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Cannot deserialize value of type `int` from String "ass": not a valid `int` value; nested exception is com.fasterxml.jackson.databind.exc.InvalidFormatException: Cannot deserialize value of type `int` from String "ass": not a valid `int` value<EOL> at [Source: (org.springframework.util.StreamUtils$NonClosingInputStream); line: 1, column: 55] (through reference chain: com.eshoppingzone.order.orders.Address["flatNumber"])]
+2022-05-15 00:15:53,203 [INFO] com.eshoppingzone.order.orders.service.OrderServiceImpl [http-nio-8084-exec-6] order is placed with20
+2022-05-15 00:17:13,907 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 00:19:45,897 [INFO] org.mongodb.driver.connection [http-nio-8084-exec-4] Opened connection [connectionId{localValue:118, serverValue:161995}] to shivamdb-shard-00-01.hbkvs.mongodb.net:27017
+2022-05-15 00:19:46,089 [INFO] com.eshoppingzone.order.orders.service.OrderServiceImpl [http-nio-8084-exec-4] order is placed with21
+2022-05-15 00:21:57,576 [INFO] com.eshoppingzone.order.orders.service.OrderServiceImpl [http-nio-8084-exec-8] order is placed with22
+2022-05-15 00:22:13,908 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 00:27:13,922 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 00:32:13,932 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 00:37:13,959 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 00:42:13,972 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 00:47:13,977 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 00:52:13,992 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 00:57:13,996 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 01:02:13,999 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 01:07:14,001 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 01:12:14,008 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 01:17:14,022 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 01:22:14,027 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 01:27:14,041 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 01:32:14,087 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 01:37:14,092 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 01:40:43,110 [INFO] org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(255)-127.0.0.1] Application shutdown requested.
+2022-05-15 01:40:50,698 [INFO] org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [RMI TCP Connection(255)-127.0.0.1] Unregistering application ORDER-SERVICE with eureka with status DOWN
+2022-05-15 01:40:50,720 [INFO] com.netflix.discovery.DiscoveryClient [RMI TCP Connection(255)-127.0.0.1] Saw local status change event StatusChangeEvent [timestamp=1652559050720, current=DOWN, previous=UP]
+2022-05-15 01:40:50,806 [INFO] com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_ORDER-SERVICE/localhost:order-service:8084: registering service...
+2022-05-15 01:40:53,444 [INFO] com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_ORDER-SERVICE/localhost:order-service:8084 - registration status: 204
+2022-05-15 01:41:06,403 [INFO] com.netflix.discovery.DiscoveryClient [RMI TCP Connection(255)-127.0.0.1] Shutting down DiscoveryClient ...
+2022-05-15 01:41:09,423 [INFO] com.netflix.discovery.DiscoveryClient [RMI TCP Connection(255)-127.0.0.1] Unregistering ...
+2022-05-15 01:41:09,425 [INFO] com.netflix.discovery.DiscoveryClient [RMI TCP Connection(255)-127.0.0.1] DiscoveryClient_ORDER-SERVICE/localhost:order-service:8084 - deregister  status: 200
+2022-05-15 01:41:10,381 [INFO] com.netflix.discovery.DiscoveryClient [RMI TCP Connection(255)-127.0.0.1] Completed shut down of DiscoveryClient

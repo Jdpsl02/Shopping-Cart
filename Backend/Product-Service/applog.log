@@ -1,0 +1,4 @@
+2023-06-13 09:16:33,497 [INFO] com.eshoppingzone.ProductResourceTests [main] Starting ProductResourceTests using Java 17.0.7 on Arthris with PID 13760 (started by sarat in E:\DesktopFiles\Shopping-Cart\Backend\Product-Service)
+2023-06-13 09:16:33,504 [INFO] com.eshoppingzone.ProductResourceTests [main] No active profile set, falling back to 1 default profile: "default"
+2023-06-13 09:16:33,774 [INFO] com.eshoppingzone.ProductResourceTests [main] Started ProductResourceTests in 1.097 seconds (JVM running for 3.635)
+2023-06-13 09:16:35,729 [WARN] com.eshoppingzone.productservice.resource.ProductResource [main] productcom.eshoppingzone.productservice.entity.Product@ea0c99c
