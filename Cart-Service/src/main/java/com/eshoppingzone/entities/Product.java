@@ -23,8 +23,7 @@ import lombok.NoArgsConstructor;
 public class Product {
 	
 	 /*This helps ignoring the field by not mapping it to the database*/
-	@Transient
-	public  static final String sequenceName="ProductSequence";
+	
 	
 	/*Providing all variables required */
     /*Setting up the below variable as primary key in the collection*/
@@ -130,9 +129,6 @@ public class Product {
 		this.specification = specification;
 	}
 
-	public static String getSequencename() {
-		return sequenceName;
-	}
 
 	
 	

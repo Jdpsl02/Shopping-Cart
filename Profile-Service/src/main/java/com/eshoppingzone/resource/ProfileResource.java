@@ -1,6 +1,6 @@
 package com.eshoppingzone.resource;
 
-import java.util.List;   
+import java.util.List;    
 import java.util.Map;
 
 
@@ -23,7 +23,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
-import com.eshoppingzone.model.MailRequest;
+
 import com.eshoppingzone.model.UserProfile;
 import com.eshoppingzone.service.ProfileService;
 import com.eshoppingzone.service.ProfileServiceImpl;

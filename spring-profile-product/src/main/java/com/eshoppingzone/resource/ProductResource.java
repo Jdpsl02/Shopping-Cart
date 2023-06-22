@@ -95,15 +95,12 @@ public class ProductResource {
 		return new ResponseEntity<>(productServiceImpl.deleteProductById(productId),HttpStatus.OK);
 	}
 	
-	@PutMapping("/decreaseQuant/{productId}/{quantity}")
+	@DeleteMapping("/decreaseQuant/{productId}/{quantity}")
 	public Product decreaseItem(@PathVariable int productId,@PathVariable int quantity) {
-	
 		
 	Product pro = productServiceImpl.getProductById(productId);
 	
-	
 		pro.setQuantity(pro.getQuantity()-quantity);
-	
 			
 			return productServiceImpl.updateProducts(productId, pro);
 			

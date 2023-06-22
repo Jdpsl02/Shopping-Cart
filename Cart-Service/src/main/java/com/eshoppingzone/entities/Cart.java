@@ -18,6 +18,7 @@ import lombok.NoArgsConstructor;
 //store cart in db
 public class Cart {
 	
+
 	
 	@Id
 	private int cartId;
@@ -49,6 +50,8 @@ public class Cart {
 	public void setItems(List<Items> items) {
 		this.items = items;
 	}
+	
+
 
 	public Cart(int cartId, double totalPrice, List<Items> items) {
 		super();

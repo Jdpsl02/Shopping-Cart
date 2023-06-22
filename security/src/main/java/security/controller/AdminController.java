@@ -42,26 +42,26 @@ public class AdminController {
 
 	@GetMapping(value = "/allProducts", produces = "application/json")
 	@PreAuthorize("hasRole('ADMIN')")
-	public ResponseEntity<List<Product>> getAllProducts(@RequestHeader("Authorization") String authorization){
+	public ResponseEntity<List<Product>> getAllProducts(@RequestHeader(value = "Authorization",required = false) String authorization){
 		   return pr.getAllProducts(authorization);
 	}
 
 	@PostMapping(value = "/add",produces = "application/json")
 	@PreAuthorize("hasRole('ADMIN')")
-	public ResponseEntity<Product> addProduct(@RequestBody Product product,@RequestHeader("Authorization") String authorization){
+	public ResponseEntity<Product> addProduct(@RequestBody Product product,@RequestHeader(value = "Authorization",required = false) String authorization){
 		return pr.addProduct(product, authorization);
 	}
 	
 	
 	@GetMapping(value ="/findById/{productId}",produces = "application/json")
 	@PreAuthorize("hasRole('ADMIN')")
-	public ResponseEntity<Product> getProductById(@PathVariable int productId,@RequestHeader("Authorization") String authorization){
+	public ResponseEntity<Product> getProductById(@PathVariable int productId,@RequestHeader(value = "Authorization",required = false) String authorization){
 	return 	pr.getProductById(productId, authorization);
 	}
 
 	@GetMapping(value ="/findByName/{productName}",produces = "application/json")
 	@PreAuthorize("hasRole('ADMIN')")
-	public ResponseEntity<Product> getProductByName(@PathVariable String productName,@RequestHeader("Authorization") String authorization){
+	public ResponseEntity<Product> getProductByName(@PathVariable String productName,@RequestHeader(value = "Authorization",required = false) String authorization){
 	return pr.getProductByName(productName, authorization);
 	}
 	
@@ -70,7 +70,7 @@ public class AdminController {
 	
 	@DeleteMapping(value ="/delete/{productId}",produces = "application/json")
 	@PreAuthorize("hasRole('ADMIN')")
-	public ResponseEntity<Map<String,Boolean>> deleteProductById(@PathVariable int productId,@RequestHeader("Authorization") String authorization){
+	public ResponseEntity<Map<String,Boolean>> deleteProductById(@PathVariable int productId,@RequestHeader(value =  "Authorization",required = false) String authorization){
 	return pr.deleteProductById(productId, authorization);
 }
 	

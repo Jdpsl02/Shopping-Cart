@@ -34,7 +34,6 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
 	
 	public static final String[] PUBLIC_URLS= {
 			"/v3/api-docs",
-			
 			"/v2/api-docs",
 			"/swagger-resources/**",
 			"/swagger-ui/**",

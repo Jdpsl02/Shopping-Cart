@@ -1,6 +1,6 @@
 package com.eshoppingzone.service;
 
-import java.util.ArrayList; 
+import java.util.ArrayList;  
 import java.util.List;
 
 import org.slf4j.Logger;
@@ -26,8 +26,7 @@ public class CartServiceImpl implements CartService {
 	@Autowired
 	private CartRepository cartRepository;
 	
-	@Autowired
-	private SequenceGeneratorService seqService;
+
 	
 	
 	@Override
@@ -65,7 +64,7 @@ public class CartServiceImpl implements CartService {
 
 	@Override
 	public Cart addCart(Cart cart) throws CartAlreadyExistsException {
-		
+//		cart.setCartId(seqService.getSequenceNum(cart.sequenceName));
 		return cartRepository.save(cart);
 	}
 

@@ -1,6 +1,6 @@
 package com.eshoppingzone.orders.service;
 
-import java.text.DateFormat;  
+import java.text.DateFormat;   
 import java.text.SimpleDateFormat;
 import java.time.LocalDate;
 import java.util.Date;
@@ -12,7 +12,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import org.springframework.web.client.RestTemplate;
+//import org.springframework.web.client.RestTemplate;
 
 import com.eshoppingzone.orders.model.Address;
 import com.eshoppingzone.orders.model.Cart;
@@ -41,8 +41,8 @@ public class OrderServiceImpl implements OrderService {
 	@Autowired
 	private SequenceGeneratorService seqService;
 	
-	@Autowired
-	RestTemplate restTemplate;
+//	@Autowired
+//	RestTemplate restTemplate;
 	
 	
 	//listing all orders 
@@ -81,14 +81,7 @@ public class OrderServiceImpl implements OrderService {
 		orderRepository.save(order);
 		 logger.info(("order is placed with"+order.getOrderId()));
 		 
-		 restTemplate.delete("http://localhost:8083/cart/delete/"+cart.getCartId());
-		 
-//		 restTemplate.put("http://localhost:8082/product/decreaseQuant/{productId}/{quantity}",order.getProductId(),i.getQuantity());
-	 
-	
-		
-		
-		
+//		 restTemplate.delete("http://localhost:8083/cart/delete/"+cart.getCartId());
 		
 	}
 	
@@ -157,7 +150,7 @@ public class OrderServiceImpl implements OrderService {
 		double amt= cart.getTotalPrice();
 		System.out.println(amt);
 		
-		 RazorpayClient client =  new RazorpayClient("rzp_test_BL4rFuV9nKRoMc","g91auwnxjWhSoguFayUZScuo" );
+		 RazorpayClient client =  new RazorpayClient("rzp_test_0LLxBP5PFdpRSP","z4NhG0iS2PGwHmyhRjXO3XGo" );
 		 JSONObject options = new JSONObject();
 		 options.put("amount", amt*100);
 		 options.put("currency", "INR");

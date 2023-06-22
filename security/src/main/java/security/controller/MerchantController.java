@@ -35,20 +35,20 @@ public class MerchantController {
 
 	@GetMapping(value = "/allProducts", produces = "application/json")
 	@PreAuthorize("hasRole('MERCHANT')")
-	public ResponseEntity<List<Product>> getAllProducts(@RequestHeader("Authorization") String authorization){
+	public ResponseEntity<List<Product>> getAllProducts(@RequestHeader(value =  "Authorization",required = false) String authorization){
 		   return pr.getAllProducts(authorization);
 	}
 	
 	
 	@PostMapping(value = "/add",produces = "application/json")
 	@PreAuthorize("hasRole('MERCHANT')")
-	public ResponseEntity<Product> addProduct(@RequestBody Product product,@RequestHeader("Authorization") String authorization){
+	public ResponseEntity<Product> addProduct(@RequestBody Product product,@RequestHeader(value =  "Authorization",required = false) String authorization){
 		return pr.addProduct(product, authorization);
 	}
 	
 	@GetMapping(value ="/findByCategory/{category}",produces = "application/json")
     @PreAuthorize("hasRole('MERCHANT')")	
-    public ResponseEntity<List<Product>> getProductByCategory(@PathVariable String category,@RequestHeader("Authorization") String authorization){
+    public ResponseEntity<List<Product>> getProductByCategory(@PathVariable String category,@RequestHeader(value =  "Authorization",required = false) String authorization){
 		
 		return pr.getProductByCategory(category, authorization);
 	}
@@ -56,13 +56,13 @@ public class MerchantController {
 	
 	@GetMapping(value ="/findByType/{productType}",produces = "application/json")
    @PreAuthorize("hasRole('MERCHANT')")	
-   public ResponseEntity<List<Product>> getProductByType(@PathVariable String productType,@RequestHeader("Authorization") String authorization){
+   public ResponseEntity<List<Product>> getProductByType(@PathVariable String productType,@RequestHeader(value =  "Authorization",required = false) String authorization){
 	 return	pr.getProductByType(productType, authorization);
 	}
 	
 	@GetMapping(value ="/findByName/{productName}",produces = "application/json")
 	@PreAuthorize("hasRole('USER')")
-	public ResponseEntity<Product> getProductByName(@PathVariable String productName,@RequestHeader("Authorization") String authorization){
+	public ResponseEntity<Product> getProductByName(@PathVariable String productName,@RequestHeader(value =  "Authorization",required = false) String authorization){
 	return pr.getProductByName(productName, authorization);
 	}
 

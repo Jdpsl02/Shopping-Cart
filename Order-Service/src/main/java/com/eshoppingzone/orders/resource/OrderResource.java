@@ -1,6 +1,6 @@
 package com.eshoppingzone.orders.resource;
 
-import java.util.List;  
+import java.util.List;   
 
 import org.json.JSONObject;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -18,6 +18,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.eshoppingzone.orders.model.Address;
 import com.eshoppingzone.orders.model.Cart;
+import com.eshoppingzone.orders.model.Items;
 import com.eshoppingzone.orders.model.Orders;
 import com.eshoppingzone.orders.model.Product;
 import com.eshoppingzone.orders.service.OrderService;
@@ -34,6 +35,11 @@ public class OrderResource {
 	@Autowired
 	private OrderService orderService;
 	
+	@Autowired
+	private PlacingOrder pl;
+	
+	@Autowired
+	private DeletingCart dl;
 	
 	OrderResource(){
 		
@@ -67,8 +73,17 @@ public class OrderResource {
 	//place order for customer with fullName
 	@PostMapping("/placeOrder/{mode}/{fullName}")
 	public void placeOrder(@RequestBody Cart cart ,@PathVariable String mode,@PathVariable String fullName) {
+		
+		List<Items> i = cart.getItems();
+		
+		for(Items ac:i) {
+			pl.decreaseItem(ac.getProductId(), ac.getQuantity());
+		}
+		
+		
 		orderService.placeOrder(cart, mode, fullName);
 		
+		dl.deleteCart(cart.getCartId());
 		
 	}
 	
