@@ -1,0 +1,49 @@
+server:
+  port: 9000
+
+spring:
+  application:
+    name: API-GATEWAY
+  cloud:
+    gateway:
+      routes:
+        - id: cart-service
+          uri: lb://cart-service
+          predicates:
+            - Path=/cart/**
+
+        - id: product-service
+          uri: lb://product-service
+          predicates:
+            - Path=/product/**
+
+        - id: order-service
+          uri: lb://order-service
+          predicates:
+            - Path=/order/**    
+            
+        - id: ewallet-service
+          uri: lb://ewallet
+          predicates:
+            - Path=/ewallet/**      
+
+            
+        - id: Security
+          uri: lb://Security
+          predicates:
+            - Path=/api/auth/**, /api/test/**,api/admin/**,api/user/**
+            
+            
+        - id: profile-service
+          uri: lb://profile-service
+          predicates:
+            - Path=/profile/**
+            
+eureka:
+  instance:
+    prefer-ip-address: true
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      defaultZone: http://localhost:8761/eureka
