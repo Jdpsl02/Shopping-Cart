@@ -1,3 +1,2 @@
 # Shopping-Cart
-Capgemini Case Study
-shopping cart website for shopping
+Full-stack e-commerce backend — Spring Boot REST APIs, JWT auth, product & order management
